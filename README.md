@@ -14,10 +14,10 @@ Start here - Great introduction to cryptocurrency, bitcoin and ethereum   https:
 # How to run
 
 First install docker and docker composer. Follow the instructions on the official site:
-```https://docs.docker.com/compose/install/```
+https://docs.docker.com/compose/install/
 
 If you already have Docker engine > 1.7.1, you can skip directly to installing docker composer (currently 1.6.2):
-```https://github.com/docker/compose/releases/tag/1.6.2```
+https://github.com/docker/compose/releases/tag/1.6.2
 
 Once docker is installed, you can download and build the docker container.
 This repo creates a single docker instance (the other 2 are commented out). The ethereum console host will not be able to connect by default to it
