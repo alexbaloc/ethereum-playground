@@ -2,7 +2,7 @@
 #   Docker for go ethereum with solidity compiler
 #
 
-FROM centos:centos7.1.1503
+FROM centos:latest
 
 MAINTAINER https://github.com/gianluca-sabena
 
